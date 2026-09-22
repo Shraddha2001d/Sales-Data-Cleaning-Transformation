@@ -19,8 +19,6 @@ and date fields.
   Band (e.g. stray "1" → "None") and Units Sold (text "six hundred" → 600)
 - **Standardized dates**: Converted Date column to proper Date type and
   filled empty dates with a default value
-- **Removed errors**: Used Power Query's Remove Errors feature on columns
-  with invalid entries
 - **Removed duplicates**: Dropped duplicate rows from the dataset
 
 ## Tools
